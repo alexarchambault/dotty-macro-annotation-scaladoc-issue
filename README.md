@@ -19,7 +19,7 @@ If using GitHub Pages consider adding a ".nojekyll" file.
 [error]  Scaladoc generation failed (exit code: 1)
 ```
 
-The actual command run by Scala CLI under-the-hood can be printed by `scala-cli doc . -v -v`. It looks like
+The actual command run by Scala CLI under-the-hood can be found in the output of `scala-cli doc . -v -v`. It looks like
 ```text
 $COURSIER_ARCHIVE_CACHE/https/github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.9.1%252B1/OpenJDK11U-jdk_x64_mac_hotspot_11.0.9.1_1.tar.gz/jdk-11.0.9.1+1/Contents/Home/bin/java
 -cp
