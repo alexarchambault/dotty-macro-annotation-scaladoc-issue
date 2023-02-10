@@ -41,4 +41,4 @@ dotty.tools.scaladoc.Main
 ./.scala-build/project_e372671733/classes/main
 ```
 
-First 3 lines in this command basically invoke scaladoc, so they could be replaced by whatever way you'd rather use to run scaladoc.
+First 4 lines in this command basically invoke scaladoc, so they could be replaced by whatever way you'd rather use to run scaladoc.
